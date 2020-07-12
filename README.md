@@ -1,4 +1,4 @@
-# Machine Learning Resources
+# Machine Learning Resources for working with machine learning and taxonomies
 ## Books
 * [_Algorithms of Oppression: How Search Engines Reinforce Racism_ by Safiya Umoja Noble](https://nyupress.org/9781479837243/algorithms-of-oppression/)
 * [_Weapons of Math Destruction_ by Cathy O’Neil](https://weaponsofmathdestructionbook.com/)
@@ -24,6 +24,6 @@
 * [Thread](https://twitter.com/DrBritWilliams/status/1275152678616694785)
 * [Another thread](https://twitter.com/violetbfox/status/1275104583690444803)
 
-## Videos
+## Films and Videos
 * ["AI, Ain't I A Woman?" - Joy Buolamwini](https://www.youtube.com/watch?v=QxuyfWoVV98&feature=youtu.be)
 * [_Coded Bias_](https://www.codedbias.com/)
