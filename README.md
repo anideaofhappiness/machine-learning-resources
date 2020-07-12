@@ -1,1 +1,15 @@
-# machine-learning-resources
+# Machine Learning Resources
+* [Algorithms of Oppression: How Search Engines Reinforce Racism by Safiya Umoja Noble](https://nyupress.org/9781479837243/algorithms-of-oppression/)
+* [Weapons of Math Destruction by Cathy O’Neil](https://weaponsofmathdestructionbook.com/)
+* [Race After Technology: Abolitionist Tools for the New Jim Code by Ruha Benjamin](https://www.ruhabenjamin.com/race-after-technology)
+* [ProPublica's Machine Bias series](https://www.propublica.org/series/machine-bias)
+* [AI, Ain't I A Woman? - Joy Buolamwini](https://www.youtube.com/watch?v=QxuyfWoVV98&feature=youtu.be)
+* [Coded Bias](https://www.codedbias.com/)
+* [Programmed Inequality]()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
