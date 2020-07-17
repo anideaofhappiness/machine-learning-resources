@@ -19,6 +19,7 @@
 * ["Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings"](http://papers.nips.cc/paper/6228-man-is-to-computer-programmer-as-woman-is-to-homemaker-d)
 * ["Men Also Like Shopping: Reducing Gender Bias Amplification using Corpus-level Constraints"](https://www.aclweb.org/anthology/D17-1323.pdf)
 * ["Bias and Fairness in Natural Language Processing"](https://www.aclweb.org/anthology/D19-2004/)
+* [A Survey of Surveys (NLP & ML)](https://github.com/NiuTrans/ABigSurvey)
 
 ## Twitter Threads
 * [Thread](https://twitter.com/DrBritWilliams/status/1275152678616694785)
